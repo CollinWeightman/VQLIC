@@ -1,0 +1,5 @@
+*.csv
+*.png
+.ipynb_checkpoints/*
+vector_quantize_pytorch/.ipynb_checkpoints/*
+*.tar
